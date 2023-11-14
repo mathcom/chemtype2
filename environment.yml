@@ -1,0 +1,10 @@
+name: chemtype2
+channels:
+    - conda-forge
+dependencies:
+    - python=2.7
+    - scikit-learn=0.17.1
+    - opencv
+    - matplotlib
+    - numpy
+    - jupyter
